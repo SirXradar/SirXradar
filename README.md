@@ -11,13 +11,6 @@
 </div>
 
 
-
-## 🔗 Connect With Me
-
-[![discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/940585389251510302)
-
-
-
 ## 🛠️ My Toolkit
 
 **🎮 Minecraft Development:**
