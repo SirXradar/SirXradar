@@ -67,7 +67,7 @@
   <div align="center">
   <br>
 
-  [![Discord](https://img.shields.io/badge/Discord-xradarr1400-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/1056916524093870150)
+  [![Discord](https://img.shields.io/badge/Discord-xradarr1400-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/940585389251510302)
   [![GitHub](https://img.shields.io/badge/Follow_@SirXradar-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SirXradar)
 
   <br>
