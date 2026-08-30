@@ -3,7 +3,7 @@
 # 🚀 Hi there, I'm SirXradar! <img src="https://media.giphy.com/media/hvRJCLFzcasr14y3za/giphy.gif" width="32px">
 
 <a href="https://github.com/SirXradar">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=F77F00&center=true&vCenter=true&width=600&lines=Senior+Plugin+Developer;Minecraft+Server+Administrator;Core+Developer+%40+CrimsonCube;Java%2C+Python+%26+System+Architecture" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=F77F00&center=true&vCenter=true&width=600&lines=Java+Plugin+Developer;Minecraft+Server+Administrator;Core+Developer+%40+CrimsonCube;Java%2C+Python+%26+System+Architecture" alt="Typing SVG" />
 </a>
 
 <p align="center">
@@ -17,7 +17,7 @@
 ### 👨‍💻 About Me
 
 - 🔭 **Currently working on:** Lead Server & Plugin Developer @ **CrimsonCube**
-- 🧩 **Specialties:** High-performance environments (**Folia, Paper, Velocity, Leaf**) & complex plugin ecosystems (e.g., *CrimsonAPI, ZeusCore, AxVaults*).
+- 🧩 **Specialties:** High-performance environments (**Folia, Paper, Velocity, Leaf**) & complex plugin ecosystems (e.g., *CrimsonAPI, ZeusCore*).
 - 🛠️ **Current Focus:** Advanced Java development (Java 11-25), custom API architectures, and Telegram bot integrations.
 - ⚙️ **Infrastructure:** Experienced in managing VPS, Dockerized environments, and Pterodactyl panel deployments.
 - ⚡ **Fun fact:** I probably spend more time optimizing TPS and reading async stack traces than sleeping!
@@ -97,5 +97,5 @@
   <br>
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="80%">
   <br><br>
-  ✨ <code>System.out.println("Made with ❤️ by SirXradar");</code> ✨
+  ✨ <code>("Made with ❤️ by SirXradar");</code> ✨
 </div>
