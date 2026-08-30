@@ -79,8 +79,8 @@
 ### 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SirXradar&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" width="48%" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SirXradar&theme=tokyonight&hide_border=true&background=0D1117" width="48%" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=SirXradar&show_icons=true&theme=tokyonight&hide_border=true" width="48%" alt="GitHub Stats" />
+  <img src="https://streak-stats.demolab.com/?user=SirXradar&theme=tokyonight&hide_border=true" width="48%" alt="GitHub Streak" />
 </div>
 
 ---
@@ -96,6 +96,6 @@
 
   <br>
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="80%">
-  <br>
-  <sub>✨ <b>System.out.println("Made with ❤️ by SirXradar");</b> ✨</sub>
+  <br><br>
+  ✨ <code>System.out.println("Made with ❤️ by SirXradar");</code> ✨
 </div>
