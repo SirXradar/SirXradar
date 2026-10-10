@@ -1,6 +1,6 @@
 <div align="center">
   
-# 🚀 Hi there, I'm SirXradar! <img src="https://media.giphy.com/media/hvRJCLFzcasr14y3za/giphy.gif" width="32px">
+# 🚀 Hi there, I'm SirXradar! 🚀
 
 <a href="https://github.com/SirXradar">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=F77F00&center=true&vCenter=true&width=600&lines=Java+Plugin+Developer;Minecraft+Server+Administrator;Core+Developer+%40+CrimsonCube;Java%2C+Python+%26+System+Architecture" alt="Typing SVG" />
